@@ -1,0 +1,5 @@
+a=int(input("enter the first sales figure"))
+b=int(input("entr the second sales figure"))
+c=int(input("enter the third sales figure"))
+largest=max(a,b,c)
+print("largest sales figure=",largest)
